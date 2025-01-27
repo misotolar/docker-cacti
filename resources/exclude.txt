@@ -1,0 +1,9 @@
+.*
+cache
+log
+plugins
+resource
+rra
+service
+scripts
+tests
